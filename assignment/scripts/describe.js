@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We have created a variable called 'name' and set the string as Dane.
+// The condition for name being listed as 'Mary' has been set to only accept an exact match.
+// If the name is an exact match (will only accept Mary, no conversions) the console.log response will be Hi, Mary!
+// If the name is listed as anything other than Mary (like 'Dane' as we set previously) the console.log response will be How do you do? and what will reflect online as this message due to the name not being listed as Mary.
 
 //CODE
 /*
@@ -45,7 +45,7 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
+// We have created a variable called 'secret'
 // 
 // 
 //
@@ -70,9 +70,9 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We have created a variable called isStudent and made it a boolean, listing that this variable is currently true.
+// We have created a variable called age and listed the current number as 34.
+// We have created another variable called zip and listed that number as 55407.
 //
 
 //CODE
@@ -137,7 +137,7 @@ let mix = true;
 if (mix === true) {
   colorOne = 'purple';
 }
-*/
+*/ 
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
