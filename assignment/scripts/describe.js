@@ -141,7 +141,7 @@ let mix = true;
 if (mix === true) {
   colorOne = 'purple';
 }
-*/ 
+* colorTwo = 'purple'; <-- needs to be added within curly brackets 
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
@@ -154,7 +154,9 @@ const time = 4;
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
-*/
+* const time needs to be changed to  --> let time = 4;
+* const needs to be removed as we want time to be a variable not a constant
+* || brackets need to be changed to && as both conditions need to be true not only one
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge 
@@ -169,5 +171,6 @@ if(minAge <= age) {
 } else {
   console.log('enter');
 }
-*/
-
+* {console.log('enter');}
+else {console.log('no entry');}
+*console.log phrases need to be switched as if condition is met the phrase reflects as 'no entry' instead of enter, and else currently reflects as 'enter', which isn't giving the desired message haha
