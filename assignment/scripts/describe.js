@@ -10,7 +10,7 @@
 // //EXAMPLE. We make a variable called number and set it to 1 as a number.
 // Then we increment the number variable. Number is now 2.
 // We check if number is greater than or equal to 2. 2 is equal to 2, so
-// we console.log 'yes'.
+// the console.log will reflect the response/comment as 'yes'.
 
 //CODE
 /*
@@ -45,10 +45,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// We have created a variable called 'secret'
-// 
-// 
-//
+// We have created a variable called 'secret' & another variable called 'code' which equals 123.
+// We have set a condition where if the code is exactly the same as 123 the variable secret will reflect as the phrase super.
+// code has not been updated to the amount of 246 (because 123 x 2 = 246)
+// We have set a second condition where if the code number is greater than 250 the variable secrert will reflect as the phrase duper.
+// We have console.logged the variable secret so that it show in our console
 
 //CODE
 /*
@@ -73,7 +74,10 @@ console.log(secret)
 // We have created a variable called isStudent and made it a boolean, listing that this variable is currently true.
 // We have created a variable called age and listed the current number as 34.
 // We have created another variable called zip and listed that number as 55407.
-//
+// We have set a condition where if the variable isStudent is true AND your zip code is greater than 80000, the console log will list the phrase 'You're a student on the West Coast!' (Both conditions must apply for this)
+// We have set another condition where if the variable isStudent is false OR your age is less than 30, the console log will list the phrase 'What are your hobbies?' (only one of the 2 conditions needs to be met.)
+// We have set another condition where if variable isStudent is true the console log phrase will reflect as 'Welcome to Prime!'
+// We have set the final condition where if variable isStudent is false the console log phrase will reflect as 'How about the weather?' (I don't believe this condition will ever show due to the condition on line 91 always applying before this option... right?)
 
 //CODE
 /*
