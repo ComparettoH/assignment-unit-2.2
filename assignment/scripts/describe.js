@@ -47,9 +47,10 @@ if (name === 'Mary') {
 // 2. WRITE YOUR DESCRIPTION HERE
 // We have created a variable called 'secret' & another variable called 'code' which equals 123.
 // We have set a condition where if the code is exactly the same as 123 the variable secret will reflect as the phrase super.
-// code has not been updated to the amount of 246 (because 123 x 2 = 246)
+// code has now been updated to the amount of 246 (because 123 x 2 = 246)
 // We have set a second condition where if the code number is greater than 250 the variable secrert will reflect as the phrase duper.
-// We have console.logged the variable secret so that it show in our console
+// We have console.logged the variable secret so that it shows in our console
+// **updated** The console.log will reflect as super due to the current value of code beingd less than 250.
 
 //CODE
 /*
