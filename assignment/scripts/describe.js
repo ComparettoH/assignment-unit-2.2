@@ -79,6 +79,7 @@ console.log(secret)
 // We have set another condition where if the variable isStudent is false OR your age is less than 30, the console log will list the phrase 'What are your hobbies?' (only one of the 2 conditions needs to be met.)
 // We have set another condition where if variable isStudent is true the console log phrase will reflect as 'Welcome to Prime!'
 // We have set the final condition where if variable isStudent is false the console log phrase will reflect as 'How about the weather?' (I don't believe this condition will ever show due to the condition on line 91 always applying before this option... right?)
+//**updated** The current set conditions will create a console.log message of 'Welcome to Prime!'
 
 //CODE
 /*
