@@ -144,6 +144,8 @@ if (mix === true) {
   colorOne = 'purple';
 }
 * colorTwo = 'purple'; <-- needs to be added within curly brackets 
+*update* colorOne has been set as red, will need to be updated to the value of blue.
+*update* colorTwo has been set as blue, will need to be updated to the value of red.
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
